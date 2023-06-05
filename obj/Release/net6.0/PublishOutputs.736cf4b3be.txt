@@ -1,0 +1,12 @@
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\MoneyBackUp.exe
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\MoneyBackUp.dll
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\MoneyBackUp.deps.json
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\MoneyBackUp.runtimeconfig.json
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\MoneyBackUp.pdb
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\UnityWorkProjects\MoneyBackUp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
